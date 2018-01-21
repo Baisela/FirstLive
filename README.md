@@ -1,5 +1,10 @@
-# FirstLive
-## Introduction
-Refresh les topics de la première page et le compteur de connecté toutes les X secondes si le curseur de la souris n'est pas sur la liste des sujets
+# First Live 
+Refresh les topics de la première page toutes les 15 secondes.
 
-Le timer peut-être changé via le script installé sur TamperMonkey.
+Sur pc le refresh se bloque lorsque votre souris est sur la liste des sujets, et le compteur de connecté est également mis à jour.
+
+Timer réglable facilement.
+
+#### Compatibilité :
+- Version http standard
+- Version web du site
